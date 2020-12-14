@@ -1,2 +1,2 @@
 # logesport.github.io
-Madeed For Log Valorent Tournaments
+Maded For Log Valorent Tournaments
